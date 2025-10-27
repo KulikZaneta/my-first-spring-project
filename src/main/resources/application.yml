@@ -1,2 +1,15 @@
+#server:
+#  port: 8080
+#
+#spring:
+#  application:
+#    name: My first spring boot app
+
 server:
   port: 8080
+app:
+  name: My first spring boot app
+  message: Hello World!
+
+cfg:
+  website: https://codefirstgirls.com/
